@@ -1,0 +1,57 @@
+{
+  "credits" : 200,
+
+  "archivements" : [  0,1,3,15  ],
+
+  "kitventory" : [
+     
+    "C_S_2"
+    ,"C_S_1"
+    ,"C_S_1__M_1"
+    ,"C_S_1__M_2"
+    ,"C_S_2__M_1"
+    ,"C_S_3__M_1"
+    ,"C_S_3__M_2"
+  ],
+
+  "ressources" : {
+     "Synths"      : 20
+    ,"Electronics" : 20
+    ,"Steel"       : 20
+    ,"biomass"     : 20
+  },
+
+  "_005_Common_Cloudprinter storage" : [
+
+  ],
+
+  "unicycler licenses":[
+
+  ],
+
+  "station":{
+
+    "Workshop":{
+      "basekit"        : "",
+      "kitpart to mod" : "",
+      "mode"           : "",
+      "countdown"      : ""
+    },
+
+    "Terminal":{
+      "basekit"        : "",
+      "kitpart to mod" : "",
+      "mode"           : "",
+      "countdown"      : ""
+    },
+
+    "Retreat":{
+      "basekit"        : "",
+      "kitpart to mod" : "",
+      "mode"           : "",
+      "countdown"      : ""
+    }
+  }
+
+
+}

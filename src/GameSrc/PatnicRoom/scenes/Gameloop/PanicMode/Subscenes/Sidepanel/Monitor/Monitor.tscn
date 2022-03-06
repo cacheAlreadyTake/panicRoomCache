@@ -1,0 +1,348 @@
+[gd_scene load_steps=20 format=2]
+
+[ext_resource path="res://Media/FixedDays Font/Panel_Title.tres" type="DynamicFont" id=1]
+[ext_resource path="res://GameSrc/PatnicRoom/scenes/Gameloop/PanicMode/Subscenes/Sidepanel/Monitor/Monitor.gd" type="Script" id=8]
+[ext_resource path="res://Media/FixedDays Font/new_dynamicfontdata.tres" type="DynamicFontData" id=9]
+[ext_resource path="res://Media/FixedDays Font/Text_Default.tres" type="DynamicFont" id=10]
+[ext_resource path="res://GameSrc/PatnicRoom/scenes/Gameloop/PanicMode/Subscenes/Sidepanel/Monitor/barToString.gd" type="Script" id=11]
+[ext_resource path="res://GameSrc/PatnicRoom/scenes/Gameloop/PanicMode/Subscenes/Sidepanel/Monitor/barToString2.gd" type="Script" id=12]
+[ext_resource path="res://GameSrc/PatnicRoom/scenes/Gameloop/PanicMode/Subscenes/Sidepanel/Monitor/slmks.gd" type="Script" id=13]
+[ext_resource path="res://GameSrc/PatnicRoom/scenes/Gameloop/PanicMode/Subscenes/Sidepanel/Monitor/sss.gd" type="Script" id=14]
+
+[sub_resource type="StyleBoxFlat" id=1]
+bg_color = Color( 0.109804, 0.156863, 0.215686, 0.745098 )
+border_color = Color( 1, 1, 1, 1 )
+border_blend = true
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+shadow_size = 13
+
+[sub_resource type="StyleBoxFlat" id=2]
+bg_color = Color( 0.196078, 0.196078, 0.196078, 1 )
+border_width_top = 3
+border_width_bottom = 3
+border_color = Color( 1, 1, 1, 1 )
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+
+[sub_resource type="DynamicFont" id=3]
+size = 53
+outline_size = 1
+outline_color = Color( 0.337255, 0.396078, 0.529412, 1 )
+font_data = ExtResource( 9 )
+
+[sub_resource type="Animation" id=4]
+length = 0.3
+tracks/0/type = "value"
+tracks/0/path = NodePath("background:rect_position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1100, 8 ), Vector2( 2500, 8 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("lifted tab:rect_position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1806, 424 ), Vector2( 2000, 424 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("tab text:rect_position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 0.3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1856, 614 ), Vector2( 2000, 614 ) ]
+}
+
+[sub_resource type="Animation" id=5]
+length = 0.3
+tracks/0/type = "value"
+tracks/0/path = NodePath("background:rect_position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 2500, 8 ), Vector2( 1100, 8 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("lifted tab:rect_position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.2 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 2000, 424 ), Vector2( 1806, 424 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("tab text:rect_position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 0.2 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 2000, 614 ), Vector2( 1856, 614 ) ]
+}
+
+[sub_resource type="StyleBoxFlat" id=7]
+bg_color = Color( 0, 0, 0, 1 )
+
+[sub_resource type="StyleBoxFlat" id=8]
+bg_color = Color( 0.54902, 0.0627451, 0.0627451, 1 )
+
+[sub_resource type="StyleBoxFlat" id=9]
+bg_color = Color( 0.192157, 0.0470588, 0.0313726, 1 )
+
+[sub_resource type="DynamicFont" id=10]
+size = 15
+outline_size = 1
+outline_color = Color( 0.337255, 0.396078, 0.529412, 1 )
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=6]
+size = 20
+outline_size = 1
+outline_color = Color( 0.337255, 0.396078, 0.529412, 1 )
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=12]
+size = 25
+outline_size = 1
+outline_color = Color( 0.337255, 0.396078, 0.529412, 1 )
+font_data = ExtResource( 9 )
+
+[node name="root_Status" type="Node2D"]
+script = ExtResource( 8 )
+
+[node name="background" type="Panel" parent="."]
+margin_left = 1104.0
+margin_top = 8.0
+margin_right = 1827.0
+margin_bottom = 837.0
+custom_styles/panel = SubResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="lifted tab" type="Panel" parent="."]
+visible = false
+margin_left = 1822.0
+margin_top = 424.0
+margin_right = 1925.0
+margin_bottom = 615.0
+custom_styles/panel = SubResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="tab text" type="RichTextLabel" parent="."]
+visible = false
+margin_left = 1864.0
+margin_top = 614.0
+margin_right = 2056.0
+margin_bottom = 678.0
+rect_rotation = 270.0
+custom_fonts/normal_font = ExtResource( 1 )
+bbcode_enabled = true
+bbcode_text = "[center][color=yellow]M[/color]onitor"
+text = "Monitor"
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="credits dynamic" type="RichTextLabel" parent="."]
+margin_left = 1344.0
+margin_top = 56.0
+margin_right = 1604.0
+margin_bottom = 121.0
+custom_fonts/normal_font = SubResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+anims/LeftToRight = SubResource( 4 )
+anims/RightToLeft = SubResource( 5 )
+
+[node name="Stats" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HP" type="Control" parent="Stats"]
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="Panel" type="Panel" parent="Stats/HP"]
+margin_left = 1111.0
+margin_top = 168.0
+margin_right = 1813.0
+margin_bottom = 200.0
+custom_styles/panel = SubResource( 7 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ProgressBar" type="ProgressBar" parent="Stats/HP"]
+margin_left = 1119.0
+margin_top = 176.0
+margin_right = 1797.0
+margin_bottom = 193.0
+custom_styles/fg = SubResource( 8 )
+custom_styles/bg = SubResource( 9 )
+custom_fonts/font = ExtResource( 10 )
+percent_visible = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="barToString" type="RichTextLabel" parent="Stats/HP"]
+margin_left = 1120.0
+margin_top = 176.0
+margin_right = 1808.0
+margin_bottom = 193.0
+custom_fonts/normal_font = SubResource( 10 )
+bbcode_enabled = true
+script = ExtResource( 11 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Name" type="RichTextLabel" parent="Stats/HP"]
+margin_left = 1120.0
+margin_top = 152.0
+margin_right = 1254.0
+margin_bottom = 177.0
+custom_fonts/normal_font = SubResource( 6 )
+bbcode_text = "Healthpoints:"
+text = "Healthpoints"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="credits" type="Control" parent="Stats"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Name2" type="RichTextLabel" parent="Stats/credits"]
+margin_left = 1170.0
+margin_top = 212.079
+margin_right = 1304.0
+margin_bottom = 237.079
+custom_fonts/normal_font = SubResource( 6 )
+bbcode_text = "Credits:"
+text = "Credits:"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="barToString2" type="RichTextLabel" parent="Stats/credits"]
+margin_left = 1272.0
+margin_top = 216.0
+margin_right = 1512.0
+margin_bottom = 233.0
+custom_fonts/normal_font = SubResource( 10 )
+bbcode_enabled = true
+bbcode_text = "Healthpoints:"
+text = "Healthpoints:"
+script = ExtResource( 12 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="kitslots" type="Control" parent="Stats"]
+margin_top = 8.0
+margin_right = 40.0
+margin_bottom = 48.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Name2" type="RichTextLabel" parent="Stats/kitslots"]
+margin_left = 1160.0
+margin_top = 244.079
+margin_right = 1294.0
+margin_bottom = 269.079
+custom_fonts/normal_font = SubResource( 6 )
+bbcode_text = "Kitslots:"
+text = "Kitslots:"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="slmks" type="RichTextLabel" parent="Stats/kitslots"]
+margin_left = 1272.0
+margin_top = 248.0
+margin_right = 1512.0
+margin_bottom = 265.0
+custom_fonts/normal_font = SubResource( 10 )
+bbcode_enabled = true
+bbcode_text = "Healthpoints:"
+text = "Healthpoints:"
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="kitslots2" type="Control" parent="Stats"]
+margin_top = -144.0
+margin_right = 40.0
+margin_bottom = -104.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="sss" type="RichTextLabel" parent="Stats/kitslots2"]
+margin_left = 1272.0
+margin_top = 243.0
+margin_right = 1792.0
+margin_bottom = 275.0
+custom_fonts/normal_font = SubResource( 12 )
+bbcode_enabled = true
+bbcode_text = "Healthpoints:"
+script = ExtResource( 14 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Conditions" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="animation_finished" from="AnimationPlayer" to="." method="_on_AnimationPlayer_animation_finished"]

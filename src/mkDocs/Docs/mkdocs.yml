@@ -1,0 +1,129 @@
+site_name : Docs P@tnicRoom
+
+
+repo_url  : https://github.com/mizzitgamestudios/PatnicRoom
+site_url  : https://mizzitgamestudios.github.io
+
+
+nav:
+  - ' ' : ' '
+  - ' ' : ' '
+  - ' ' : ' '
+  - ' ' : ' '
+  - Cogsmos Framework:
+    - democrECS: 
+      - 'Overview'  : 'Cogsmos/democrECS/Overview.md'
+      - 'Entitiy'   : 'Cogsmos/democrECS/Entity.md'
+      - 'Component' : 'Cogsmos/democrECS/Component.md'
+      - 'Template'  : 'Cogsmos/democrECS/Template.md'
+      - 'System'    : 'Cogsmos/democrECS/System.md'
+    - 'sokraTILES'    : 'Cogsmos/sokraTILES.md'
+    - 'dioJSONes'     : 'Cogsmos/dioJSONes.md'
+    - 'arisPROCGENes' : 'Cogsmos/arisPROCGENes.md'
+
+  - ' ' : ' '
+  - ' ' : ' '
+
+  - Entities:
+    - Tilemap:
+      - 'TileEntity'         : 'Entities/Tilemap/Tile.md'
+      - 'InteractableEntity' : 'Entities/Tilemap/Interact.md'
+      - 'ActorEntity'        : 'Entities/Tilemap/Actor.md'
+    - Kit:
+      - 'KitPartEntity'      : 'Entities/Kit/Kitpart.md'
+      - 'KitSetEntity'       : 'Entities/Kit/Kitset.md'
+    - Effect:
+      - 'EffectEntity'       : 'Entities/Effect/Effect.md'
+      - 'ConditionEntity'    : 'Entities/Effect/Condition.md'
+
+  - ' ' : ' '
+  - ' ' : ' '
+
+  - Conventions:
+    - 'Styling' : 'Conventions/Styling.md'
+    - Lists:
+      - 'Namings' : 'Conventions/Namings.md'
+      - 'Enums'   : 'Conventions/Enums.md'
+    - Syntax: 
+      - 'Effect' : ''
+      - 'Loot Table' : ''
+
+  - ' ' : ' '
+  - ' ' : ' '
+
+  - Modules:
+    - '001_Atlas' : 'Modules/001.md'
+    - '002_Atlas' : 'Modules/001.md'
+    - '003_Atlas' : 'Modules/001.md'
+    - '004_Atlas' : 'Modules/001.md'
+    - '005_Atlas' : 'Modules/001.md'
+    - '006_Atlas' : 'Modules/001.md'
+    - '007_Atlas' : 'Modules/001.md'
+    - '008_Atlas' : 'Modules/001.md'
+    - '009_Atlas' : 'Modules/001.md'
+    - '010_Atlas' : 'Modules/001.md' 
+    - '011_Atlas' : 'Modules/001.md'
+    - '012_Atlas' : 'Modules/001.md'
+    - '013_Atlas' : 'Modules/001.md'
+    - '014_Atlas' : 'Modules/001.md' 
+    - '015_Atlas' : 'Modules/001.md'
+    - '016_Atlas' : 'Modules/001.md'
+    - '017_Atlas' : 'Modules/001.md'
+
+
+
+
+
+
+
+plugins:
+  - search:
+      lang      : en
+      separator : '[\s\-\.]+'
+
+
+theme:
+  name : material
+
+
+  palette:
+    scheme   : slate
+    language : en
+    
+    primary  : cyan
+    accent   : lime
+
+
+  features:
+    - search.suggest
+    - search.highlight
+
+
+  highlightjs   : true
+  hljs_languages:
+      - yaml
+      - rust
+      - GDScript
+      - JSON
+      - Python
+
+
+  shortcuts:
+    help     : 9      # tab
+    next     : 39     # right arrow
+    previous : 37     # left arrow
+    search   : 17     # cntrl
+
+
+  font:
+    text : Ubuntu
+    code : IBM Plex Sans Hebrew
+
+
+
+
+
+
+
+
+

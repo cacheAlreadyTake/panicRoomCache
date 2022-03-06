@@ -1,0 +1,16 @@
+
+
+
+
+[
+    "\n\n<<< BACK TO MENUE <<<\n 1/5 \nWelcome to our content creator called Alecandria!\nIts Goal is to bridge between coder and designer.\n\nP@tnicRoom uses a custome made syntax to save and\ndescirbe its Game-elements. Its named LEC:\nLinked\nEntity\nComposition\n\nIf you have no knowledge of coding or even developing\ndont worry! We have right in our mind while building\nthis Editorl. Its a little bit unconventional but we\nare sure you will be able to get the jist of it :)\npress on the next line enter to start vvvv\n>>  NEXT PAGE  >>\n\n"
+    ,
+    "\n\n<<< BACK TO MENUE <<<\nWhat are LECs?\nThey are pretty much some fancied up textfiles.\nIts like a Form to describe a new something in the Game\ncalled ENTITY\n\nThe Words and Values you insert, determinds its behaviour\nand are called COMPONENTS.\n\nYou dont need to remember them, we will show you a list of\nall neccessary attributes, for example:\n\nName        ---> \nDescription ---> \nIndex       ---> \n\nThose three will follow you all around here, they are the lowest\ncommon annominator, everything needs:\nA name for players to remember them by\nA short Summary for further information\nA (unique) Name for the Computer find it\nnext, we will fill them out vvvv\n>>  NEXT PAGE  >>\n\n"
+    ,
+    "\n\n<<< BACK TO MENUE <<<\n\nName        ---> Conan the Barbarian\nDescription ---> A Strong cool dude \nIndex       ---> CONAN_BARBARIAN\n\nSometimes, you dont even need to come up \nwith thinks, for example:\n\nRacial friends ---> Human\n---> Dwarf\n---> Orc\n\n There are only a certain number of Races info\nthe Game,therefore you have to choose by them\n\n Except you make your Own of cause :)\nTry it after the next last page by selecting\nDESIGN -> RACE \n\nLast Hints vvv>>  NEXT PAGE  >>\n\n"
+    ,
+    "\n\n<<< BACK TO MENUE <<<\n\n1> WE ARE STILL IN ALPHA! \nRemember that P@nicRoom is very much in the beginging\nYou will probably wander into many bugs, We give our best\nTo fix up the issues but its going to take a while. Feel\nfree to report any misshaps you find by mailing us :)\n\n2> READ OUR WIKI\nThere are even two! one for the game itself, and one for its\ndevelopment.Ecspaecially the first can probably answer many\nQuestions in your Head. We Recommend to play the Base Game first\nto to get a better understanding of the things you fill in\n "
+]
+
+
+

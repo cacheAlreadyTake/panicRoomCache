@@ -1,0 +1,131 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Media/temp/HUD_BLUE.tres" type="StyleBox" id=1]
+[ext_resource path="res://Media/FixedDays Font/Text_Header.tres" type="DynamicFont" id=2]
+[ext_resource path="res://Media/FixedDays Font/new_dynamicfontdata.tres" type="DynamicFontData" id=3]
+
+
+
+[sub_resource type="DynamicFont" id=1]
+size = 20
+outline_size = 3
+outline_color = Color( 0.172549, 0.203922, 0.286275, 1 )
+font_data = ExtResource( 3 )
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Panel5" type="Panel" parent="."]
+margin_left = 1038.0
+margin_top = 392.0
+margin_right = 1352.0
+margin_bottom = 1104.0
+custom_styles/panel = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Header2" type="Panel" parent="."]
+margin_left = 1038.0
+margin_top = 392.0
+margin_right = 1352.0
+margin_bottom = 448.0
+custom_styles/panel = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Title" type="RichTextLabel" parent="Header2"]
+margin_right = 314.0
+margin_bottom = 56.0
+custom_fonts/normal_font = ExtResource( 2 )
+bbcode_enabled = true
+bbcode_text = "[center][color=yellow]Patchnotes"
+text = "Patchnotes"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="News" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Header" type="Panel" parent="News"]
+margin_left = 392.0
+margin_top = 392.0
+margin_right = 984.0
+margin_bottom = 448.0
+custom_styles/panel = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Title" type="RichTextLabel" parent="News/Header"]
+margin_right = 592.0
+margin_bottom = 56.0
+custom_fonts/normal_font = ExtResource( 2 )
+bbcode_enabled = true
+bbcode_text = "[center][color=yellow]News"
+text = "News"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Body" type="Panel" parent="News"]
+margin_left = 392.0
+margin_top = 448.0
+margin_right = 984.0
+margin_bottom = 944.0
+custom_styles/panel = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Title2" type="RichTextLabel" parent="News/Body"]
+margin_left = 11.0
+margin_top = 8.0
+margin_right = 592.0
+margin_bottom = 496.0
+custom_fonts/normal_font = SubResource( 1 )
+bbcode_enabled = true
+bbcode_text = "[color=yellow]Hello there, and welcome in the[/color] P[color=red]a[/color]nicRoom!
+
+To get to this point was quite a journey,
+P[color=red]a[/color]nicRoom started exactly a Year ago.
+
+
+At some point it became more than the sum of its parts.
+Due to the Pandemic, mental health became more struggling than usual, P[color=red]a[/color]nicRoom is our go-to coping in many diffrent ways.
+
+We have put countless hours into this game, everyone in the _005_Common_Team worked his passion into it. 
+
+So thank you very much for showing interest and spending your time in P[color=red]a[/color]nicRoom, it genuinly means something
+for us!
+
+Wash your hands, stay save and most important:
+[color=yellow]restore your peace.
+
+- RedRastaRigger (mizzit.games.studios@gmail.com)"
+text = "Hello there, and welcome in the PanicRoom!
+
+To get to this point was quite a journey,
+PanicRoom started exactly a Year ago.
+
+
+At some point it became more than the sum of its parts.
+Due to the Pandemic, mental health became more struggling than usual, PanicRoom is our go-to coping in many diffrent ways.
+
+We have put countless hours into this game, everyone in the _005_Common_Team worked his passion into it. 
+
+So thank you very much for showing interest and spending your time in PanicRoom, it genuinly means something
+for us!
+
+Wash your hands, stay save and most important:
+restore your peace.
+
+- RedRastaRigger (mizzit.games.studios@gmail.com)"
+__meta__ = {
+"_edit_use_anchors_": false
+}

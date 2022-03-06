@@ -1,0 +1,77 @@
+site_name : Encyclopedia P@tnicRoom
+
+
+repo_url  : https://github.com/mizzitgamestudios/PatnicRoom
+site_url  : https://mizzitgamestudios.github.io
+
+
+nav:
+  - Home             : 'index.md'
+  - -------------------------: ''
+  - Enviroment       : 'Overview_Enviroment.md'
+  - Actor Attributes : 'Overview_ActorAttributes.md'
+  - -------------------------: ''
+  - Kitparts         : 'Overview_Kitparts.md'
+  - Effects          : 'Overview_Effects.md'
+  - -------------------------: ''
+  - _005_Character_Stats            : 'Overview__005_Character_Stats.md'
+
+
+
+plugins:
+  - search:
+      lang      : en
+      separator : '[\s\-\.]+'
+
+
+theme:
+  name : material
+
+
+  palette:
+    scheme   : slate
+    language : en
+    
+    primary  : cyan
+    accent   : lime
+
+
+    features:
+      - search.suggest
+      - search.highlight
+
+      - toc.integrate
+      
+      - navigation.top
+      - navigation.sections
+      - navigation.expand
+
+
+  highlightjs   : true
+  hljs_languages:
+      - yaml
+      - rust
+      - GDScript
+      - JSON
+      - Python
+
+
+  shortcuts:
+    help     : 9      # tab
+    next     : 39     # right arrow
+    previous : 37     # left arrow
+    search   : 17     # cntrl
+
+
+  font:
+    text : Ubuntu
+    code : IBM Plex Sans Hebrew
+
+
+
+
+
+
+
+
+

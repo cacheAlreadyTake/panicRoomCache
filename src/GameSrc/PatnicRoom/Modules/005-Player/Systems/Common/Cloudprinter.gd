@@ -1,0 +1,3 @@
+extends Node
+class_name _005_Common_Cloudprinter
+

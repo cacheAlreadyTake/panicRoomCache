@@ -1,0 +1,344 @@
+
+
+### BASE_GAME_DATA_PATH
+res://Gamedata/Game elements
+
+
+### BASE_GAME_STABLE_DATA_PATH
+res://Gamedata/Game elements/Stable
+
+
+### BASE_GAME_COMMUNITY_DATA_PATH
+res://Gamedata/Game elements/Community
+
+
+### BASE_GAME_PERSONAL_DATA_PATH
+res://Gamedata/Game elements/Personal
+
+
+### FILEPATH_GAMEDATA_TILESETS
+res://Gamedata/Tiled/TileSets/JSON
+
+
+### TYPES_ON_MAP
+0. TILE
+1. ACTOR
+2. INTERACT
+3. MARKER
+4. PLAYER
+5. LOOT_SOURCE
+
+
+### ACTION_PHASE
+0. EFFECT_DONE
+1. PLAYER_DONE
+2. NPC_DONE
+
+
+### M_TYPE
+0. MEAT
+1. MAGIC
+2. MATRIX
+
+
+### CENTER_TO_DRAW
+X: 32 Y: 31
+
+
+### TILE_PIXEL_SIZE
+16
+
+
+### MOUSE_INPUT_MODE
+0. ONLOOK
+1. LOOT
+
+
+### DIRECTION_FOUR
+0. NORTH
+1. EAST
+2. SOUTH
+3. WEST
+
+
+### LAYER
+0. ACTOR
+1. PLAYER
+2. MEAT_GROUND
+3. MEAT_INTERACTABLE
+4. MATRIX_GROUND
+5. MATRIX_INTERACTABLE
+6. MAGIC_GROUND
+7. MAGIC_INTERACTABLE
+8. SELECTION
+9. CONDITION
+
+
+### ENTROPY_TO_STRING
+0. Masterfully crafted Clockwork
+1. Tide up
+2. Manageable
+3. Mess
+4. Pigstall
+5. Chaotic
+6. Left for good
+7. Tipping point
+8. Spiraling out!!
+9. TRUE COSMIC VACUUM
+
+
+### PROGRESS_COLOR
+0. #97a4c3
+1. #97a4c3
+2. #a7a7a7
+3. #a7a7a7
+4. #e7cd7b
+5. #e7cd7b
+6. #db6322
+7. #db6322
+8. #db2222
+9. #ff0e0e
+
+
+### VALUE
+0. DREK
+1. WORN_OUT
+2. DO_IT_YOURSELF
+3. WAGESLAVE
+4. INDUSTRIAL
+5. UPPER_CLASS
+6. FEDERAL
+7. FIXER
+8. ELITE_RUNNER
+9. MEGACON_PROTOTYPE
+
+
+### RARITY_TO_STRING
+0. Drek                 standard
+1. Worn out             standard
+2. Do it yourself       standard
+3. Wageslave            standard
+4. Industrial           standard
+5. Upper class          standard
+6. Federal              standard
+7. Fixer                standard
+8. Elite runner         standard
+9. Megacon prototype    standard
+
+
+### PARTS
+0. BASE
+1. MOD
+2. APPENDIX
+
+
+### CAT_MATRIX
+0. HACK
+1. DRONE
+2. CYBERWARE
+
+
+### CAT_MAGIC
+0. RITE
+1. SPELL
+2. INFUSION
+
+
+### CAT_MEAT
+0. GUN
+1. MEELE
+2. ARMOR
+
+
+### CATEGORY
+0. HACK
+1. DRONE
+2. CYBERWARE
+3. RITE
+4. SPELL
+5. INFUSION
+6. GUN
+7. MEELE
+8. ARMOR
+
+
+### STATION_MODE
+0. ADD
+1. REMOVE
+2. CHANGE
+
+
+### PEACES_TILL_NEW_SLOT
+4
+
+
+### MAX_TEAM_SIZE
+4
+
+
+### SKILL
+0. CRAFTING
+1. PHYLOSOPHIZING
+2. CONCEPTUALICING
+3. PERCEVING
+4. ASSENSING
+5. DEBUGGING
+6. ENDURING
+7. COPING
+8. FILTERING
+9. SNEAKING
+10. REPRESSING
+11. SILENCING
+
+
+### ROOMS_FOR_TRAIT_NEEDED
+3
+
+
+### MOVEMENT
+0. NORTH
+1. WEST
+2. SOUTH
+3. EAST
+
+
+### INTERFACE
+0. CNTL
+1. DELETE
+2. ESCAPE
+3. ENTER
+4. LEFT_CLICK
+5. RIGHT_CLICK
+
+
+### ACTION
+0. SELECT
+1. INTERACT
+2. PARCTISE
+3. ONLOOK
+4. LOOT
+5. USE
+
+
+### INFO
+0. JURNAL
+1. MONITOR
+2. NEWS
+3. KITS
+4. CLI
+
+
+### PLAYER_STATE
+0. STANDING
+1. SELECTING
+2. NEEDING_DIRECTION
+3. SELECTING_DIRECTION
+4. INVALID
+5. FINISHED
+
+
+### INPUT_MODE
+0. MOUSE
+1. KEY
+
+
+### INPUT_MODE
+0. MOUSE
+1. KEY
+
+
+### SELF
+0. INVENTORY
+1. CHAR
+2. ROOTNET
+
+
+### STATION
+0. WORKSHOP
+1. TERMINAL
+2. RETREAT
+
+
+### SPECIAL
+0. PANIC
+
+
+### SCREEN_TYPE
+0. STATION
+1. SELF
+2. SPECIAL
+
+
+### VALUE_DEPTH
+0. UPPER
+1. MIDDLE
+2. LOWER
+3. CONNECTOR
+4. CONDITION
+5. VALUE
+
+
+### EXCEPTIONAL_PARSER
+0. DEFAULT
+1. AND
+2. FLAG
+3. HAS_COMP
+4. COMPARE_COMP
+5. PERMANENT_CHANGE
+
+
+### TYPES_METADATA
+TYPES_METADATA
+
+
+### TILE_SETS
+res://Gamedata/Tiled/TileSets/JSON
+
+
+### GAME_ELEMENTS_STABLE
+res://Gamedata/Game elements/Stable
+
+
+### GAME_ELEMENTS_COMMUNITY
+res://Gamedata/Game elements/Community
+
+
+### GAME_ELEMENTS_PERSONAL
+res://Gamedata/Game elements/Personal
+
+
+### SAVE_STATE
+res://Config/savestate
+
+
+### SCENE
+0. TITLE
+1. REST
+2. PANIC
+3. LEC_VIEWER
+
+
+### SUB_TITLES
+res://Config/dynamic subtitles.json
+
+
+### GOALS
+0. FIGHT
+1. IDLE
+
+
+### MEANS
+0. SELECT_TARGET
+1. SELECT_KIT
+
+
+### ACTIONS
+0. SELECT_TILE
+1. SELECT_ACTOR
+2. SELECT_SELF
+3. SELECT_KIT_BY_CAT
+4. SELECT_KIT_BY_NAME
+5. SELECT_KIT_BY_SLOT_NR
+6. SELECT_KIT_BY_RNG
+7. SELECT_KIT_IN_REACH
+

@@ -1,0 +1,42 @@
+{
+  "name"        : "chummer",
+  "street-name" : "",
+  "max kitsets":5,
+  "texture":"General_0_2",
+  "kitslot progression":1,
+  "trait progression":1,
+
+  "race"        : "TROLL",
+
+  "gear" : [
+
+  ],
+
+  "attributes":{
+    "con":"6",
+    "agi":"3",
+    "str":"3",
+    "rea":"3",
+
+    "log":"3",
+    "int":"3",
+    "wil":"3",
+    "cha":"3"
+  },
+
+  "skills" : {
+
+  },
+
+  "kitsets":[
+  ],
+
+  "traits":[
+
+  ]
+
+
+
+
+
+}

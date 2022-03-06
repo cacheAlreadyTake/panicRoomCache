@@ -1,0 +1,52 @@
+{
+
+
+    "Introduction":{
+        "LEC"                 : "#80ffbb",
+        "L"                   : "#00ff38",
+        "E"                   : "#00ff38",
+        "C"                   : "#00ff38",
+
+        "Alecandria"          : "#9000e3",
+        "Editor"              : "#d080ff",
+
+        "Entities"            : "#59ff96",
+        "Components"          : "#59ff96",
+        "Entity"              : "#59ff96",
+
+        "attribute"           : "#4b9ab3",
+        "attributes"          : "#4b9ab3",
+
+        "--->"                : "#2edac6",
+        "v"                   : "#2edac6",
+
+        "<< PREVIOUS PAGE <<" : "#fbff26",
+        ">> NEXT PAGE >>"     : "#fbff26"
+    },
+
+
+    "Selection":{
+        "Actor"               : "#6bceff",
+        "Items"               : "#6bceff",
+        "KitParts"            : "#6bceff",
+        "Events"              : "#6bceff",
+        "AND"                 : "#4425f5"
+    },
+
+
+    "MainMenue":{
+        "PatnicRoom"          : "#9000e3",
+        "LEC"                 : "#80ffbb",
+        "Menue"               : "#6bceff",
+        "o"                   : "#2826d1"
+    },
+
+    
+    "Design":{
+        "CREATE GAME ELEMENTE" : "#07e02b",
+        "xxx"                  : "#ebb434"
+    }
+
+
+
+}

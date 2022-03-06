@@ -1,0 +1,48 @@
+
+
+#PATCH_DATE{
+    color: rgb(154, 208, 255);
+
+}
+#PATCH_VERSION{
+    color: rgb(154, 208, 255);
+}
+#PATCH_TITLE{
+    color: rgb(154, 208, 255);
+}
+#PATCH_SYNOPSIS{
+}
+
+
+
+
+#BLOG_DATE{
+    color: rgb(154, 208, 255);
+}
+#BLOG_SYNOPSIS{
+}
+
+
+
+
+#EVENT_DATE{
+    color: rgb(154, 208, 255);
+}
+#EVENT_TITLE{
+    color: rgb(154, 208, 255);
+}
+#EVENT_SYNOPSIS{
+    
+}
+
+.more_info{
+    color: rgb(88, 177, 255);
+    font: bold;
+}
+
+.title_news{
+    color: rgb(88, 177, 255);
+    font: xx-large;
+    text-align: center;
+    font-size: x-large;
+}

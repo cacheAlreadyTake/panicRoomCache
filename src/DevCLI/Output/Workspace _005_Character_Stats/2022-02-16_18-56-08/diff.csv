@@ -1,0 +1,69 @@
+"filename", "language", "JSON with Comments", "JSON", "Properties", "LEC", "HTML", "GDScript", "Markdown", "comment", "blank", "total"
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Config\dynamic subtitles.json", "JSON", 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\Game elements\Personal\ACTOR RACE Fairy.lec", "LEC", 0, 0, 0, 27, 0, 0, 0, 8, 21, 56
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileMaps\Special\DebugCompass.json", "JSON", 0, 55, 0, 0, 0, 0, 0, 0, 0, 55
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileMaps\Special\Template.json", "JSON", 0, 189, 0, 0, 0, 0, 0, 0, 0, 189
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileMaps\Special\devroom.json", "JSON", 0, 113, 0, 0, 0, 0, 0, 0, 0, 113
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileMaps\beta Maps\Suburban_One.json", "JSON", 0, 138, 0, 0, 0, 0, 0, 0, 0, 138
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileMaps\experimental tilemap.json", "JSON", 0, 138, 0, 0, 0, 0, 0, 0, 0, 138
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\00_Terrain.json", "JSON", 0, 1285, 0, 0, 0, 0, 0, 0, 0, 1285
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\01_Indoors.json", "JSON", 0, 1995, 0, 0, 0, 0, 0, 0, 0, 1995
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\02_POI.json", "JSON", 0, 527, 0, 0, 0, 0, 0, 0, 0, 527
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\03_General.json", "JSON", 0, 535, 0, 0, 0, 0, 0, 0, 0, 535
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\04_Marker.json", "JSON", 0, 354, 0, 0, 0, 0, 0, 0, 0, 354
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\05_Nature.json", "JSON", 0, 85, 0, 0, 0, 0, 0, 0, 0, 85
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\06_Decoration.json", "JSON", 0, 1454, 0, 0, 0, 0, 0, 0, 0, 1454
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\07_Security.json", "JSON", 0, 1050, 0, 0, 0, 0, 0, 0, 0, 1050
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\08_Conditions.json", "JSON", 0, 14, 0, 0, 0, 0, 0, 0, 0, 14
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\JSON\09_Shop.json", "JSON", 0, 719, 0, 0, 0, 0, 0, 0, 0, 719
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\New Tiled\TileSets\all.tres", "Properties", 0, 0, 2143, 0, 0, 0, 0, 0, 3, 2146
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameData\Tiled\TileMaps\experimental tilemap.json", "JSON", 0, 138, 0, 0, 0, 0, 0, 0, 0, 138
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Cogsmos-Framework\Dav-inc-i\FSM-Panic\FSM_Action.gd", "GDScript", 0, 0, 0, 0, 0, 2, 0, 0, -1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Cogsmos-Framework\Dav-inc-i\FSM-Panic\FSM_Interface.gd", "GDScript", 0, 0, 0, 0, 0, 3, 0, 0, -1, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Cogsmos-Framework\Dav-inc-i\FSM-Panic\MouseLogik\MouseHover.gd", "GDScript", 0, 0, 0, 0, 0, 0, 0, -3, 3, 0
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Indexes\Syntax\Event\EVENT.gd", "GDScript", 0, 0, 0, 0, 0, 6, 0, 0, 16, 22
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\002-Tilemap-Structure\Controller\API.gd", "GDScript", 0, 0, 0, 0, 0, -1, 0, 0, 1, 0
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider-Hub.gd", "GDScript", 0, 0, 0, 0, 0, 2, 0, 0, 0, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider\Component.gd", "GDScript", 0, 0, 0, 0, 0, 2, 0, 0, 0, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider\Condition.gd", "GDScript", 0, 0, 0, 0, 0, 1, 0, 0, -1, 0
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider\Flag.gd", "GDScript", 0, 0, 0, 0, 0, 3, 0, 0, -1, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider\Property.gd", "GDScript", 0, 0, 0, 0, 0, 2, 0, 0, -1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Consider\Type.gd", "GDScript", 0, 0, 0, 0, 0, 2, 0, 0, -1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Medium-Hub.gd", "GDScript", 0, 0, 0, 0, 0, 5, 0, 0, 1, 6
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Perform-Hub.gd", "GDScript", 0, 0, 0, 0, 0, 0, 0, 0, -1, -1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\004-Event\Systems\Seize\MEDIUM\Self.gd", "GDScript", 0, 0, 0, 0, 0, 4, 0, 0, 9, 13
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\006-Conditions\Controller\API.gd", "GDScript", 0, 0, 0, 0, 0, -3, 0, 0, -1, -4
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\008-KitSet\Systems\kitSelect.gd", "GDScript", 0, 0, 0, 0, 0, 6, 0, 0, 0, 6
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\Modules\014-Behavior\Controller\API.gd", "GDScript", 0, 0, 0, 0, 0, -2, 0, 0, 0, -2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\PanicMode.tscn", "Properties", 0, 0, 2, 0, 0, 0, 0, 0, 0, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Monitor Side Panel\Monitor.tscn", "Properties", 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Monitor Side Panel\barToString.gd", "GDScript", 0, 0, 0, 0, 0, 3, 0, 0, 2, 5
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Rootpanel\Action.tscn", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, -1, -1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Rootpanel\Entrope Bar.tscn", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, -1, -1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Rootpanel\Quest.tscn", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, -1, -1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\Rootpanel\SidePanel.tscn", "Properties", 0, 0, 2, 0, 0, 0, 0, 0, -1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\PanicMode\Subscenes\ViewModes\dummy.tscn", "Properties", 0, 0, 2, 0, 0, 0, 0, 0, -4, -2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\RestMode\Self\Charsheet\Charsheet.tscn", "Properties", 0, 0, -635, 0, 0, 0, 0, 0, -69, -704
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Gameloop\RestMode\Self\Inventory\Inventar.tscn", "Properties", 0, 0, 2, 0, 0, 0, 0, 0, 0, 2
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Unique\API_017_CLI\CLI.tscn", "Properties", 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Unique\Look at Panel\Initialice.gd", "GDScript", 0, 0, 0, 0, 0, -13, 0, 0, 8, -5
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Unique\Look at Panel\look at.tscn", "Properties", 0, 0, 150, 0, 0, 0, 0, 0, 13, 163
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Unique\Titlescreen\SubScene\News&Patches.tscn", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\PatnicRoom\scenes\Unique\Titlescreen\Title.tscn", "Properties", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\Universal\GUI\Kitset_to_string\Text.gd", "GDScript", 0, 0, 0, 0, 0, -5, 0, -3, -6, -14
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\Universal\GUI\recycler\Recycler.tscn", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\Universal\Scene\Bootstrap\GameInit\Submenues\Starting Kitsets\StartingKits.tscn", "Properties", 0, 0, 19, 0, 0, 0, 0, -1, -7, 11
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\Universal\Scene\Bootstrap\GameInit\Submenues\Starting Kitsets\kitset.gd", "GDScript", 0, 0, 0, 0, 0, -14, 0, 0, -21, -35
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\GameSrc\Universal\Scene\Bootstrap\GameInit\Submenues\content Manager\RowGameElement.tscn", "Properties", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\index.html", "HTML", 0, 0, 0, 0, -28, 0, 0, 35, -7, 0
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\About.html", "HTML", 0, 0, 0, 0, -32, 0, 0, 48, -6, 10
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\Blogpost.html", "HTML", 0, 0, 0, 0, -34, 0, 0, 30, -1, -5
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\Download.html", "HTML", 0, 0, 0, 0, -85, 0, 0, 25, -11, -71
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\Event.html", "HTML", 0, 0, 0, 0, 3, 0, 0, 36, 3, 42
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\Patch.html", "HTML", 0, 0, 0, 0, -26, 0, 0, 35, -6, 3
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\Website\pages\Team.html", "HTML", 0, 0, 0, 0, -34, 0, 0, 30, -1, -5
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\mkDocs\Atlas\docs\Atlas_Components.md", "Markdown", 0, 0, 0, 0, 0, 0, 74, 0, 7, 81
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\project.godot", "Properties", 0, 0, -37, 0, 0, 0, 0, 0, 0, -37
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\tools\Statistics\MD\Components.gd", "GDScript", 0, 0, 0, 0, 0, 1, 0, 0, -1, 0
+"c:\Users\user\Documents\GitHub\PatnicRoom-Developer-Edition\workspaceSettings.code-workspace", "JSON with Comments", 11, 0, 0, 0, 0, 0, 0, 0, 1, 12
+"Total", "-", 11, 8793, 1656, 27, -236, 4, 74, 240, -62, 10507
